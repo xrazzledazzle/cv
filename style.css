@@ -1,0 +1,12 @@
+img {
+    width: 121px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 100px;
+  }
+  .username {
+    font-weight: bold;
+  }
+  body {
+    background: url("style/images/flag.png");
+  }
