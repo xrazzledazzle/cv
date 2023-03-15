@@ -1,12 +1,28 @@
+body {
+  background-color: #EDF1D6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 4%;
+  border-width: 5px;
+  border-color: grey;
+}
+
 img {
-    width: 121px;
-    border-radius: 50px;
-    float: left;
-    margin-right: 100px;
-  }
-  .username {
-    font-weight: bold;
-  }
-  body {
-    background: url("style/images/flag.png");
-  }
+  border-radius: 200%;
+  width: 20%
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
